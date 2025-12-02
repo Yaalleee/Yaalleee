@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Syahrial Hardi A and I'm a ..., from Tangerang </p>
+<p align="left">My name is Syahrial Hardi A and I'm a Mahasiswa, from Tangerang </p>
 
 ###
 
